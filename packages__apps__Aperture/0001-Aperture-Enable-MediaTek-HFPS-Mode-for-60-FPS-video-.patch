@@ -1,7 +1,7 @@
-From 52231a8d7080acf026e253c0105ac1eb6f98b6bd Mon Sep 17 00:00:00 2001
+From cf09e8fca1efecc513b3cc9489f59601b58c4fe2 Mon Sep 17 00:00:00 2001
 From: bengris32 <bengris32@protonmail.ch>
 Date: Sat, 9 Mar 2024 23:15:05 +0000
-Subject: [PATCH] Aperture: Enable MediaTek HFPS Mode for 60 FPS video
+Subject: [PATCH 1/2] Aperture: Enable MediaTek HFPS Mode for 60 FPS video
  recording
 
 MediaTek devices need to pass this parameter in order to actually record 60 FPS videos.
